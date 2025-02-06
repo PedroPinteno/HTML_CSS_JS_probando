@@ -87,5 +87,5 @@ Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más deta
 
 ## 👤 Autor
 - **SatruxDev**
-- [GitHub](https://github.com/tuusuario)
-- [LinkedIn](https://linkedin.com/in/tuusuario)
+- [GitHub](https://github.com/PedroPinteno)
+- [LinkedIn](http://linkedin.com/pedro-pinteño-gijón-6a144b328)
